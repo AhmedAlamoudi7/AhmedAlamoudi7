@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -->
-
+<p align="center">
 <a href="https://github.com/AhmedAlamoudi7/AhmedAlamoudi7/blob/main/3f8bd37028526e0223e5fd780a318360.gif" style="margin-left:300px"><img src="https://github.com/AhmedAlamoudi7/AhmedAlamoudi7/blob/main/3f8bd37028526e0223e5fd780a318360.gif"></a>
+</p>
 
 <p align="center"> 
   Visitor count<br>
