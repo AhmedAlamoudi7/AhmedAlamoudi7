@@ -96,38 +96,10 @@ I believe communication and transparency is the key to achieve any goal and I te
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-abushaban&layout=compact&theme=highcontrast" alt="M7Mansour" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-abushaban&theme=highcontrast" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-</p>
 
-
-
-### Tools
-![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
-![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Apache NetBeans IDE](https://img.shields.io/badge/-apachenetbeanside-000?&logo=apachenetbeanside)
-
-### I’m currently learning:
-![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Micro Service](https://img.shields.io/badge/-Microservices%20Architecture-000)
-
-
-![Anurag's github stats](https://activity-graph.herokuapp.com/graph?username=mohammed-abushaban&theme=highcontrast&bg_color=000&hide_border=true)
 
 <h4 align="center">
-  <a href="https://github.com/mohammed-abushaban" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/AhmedAlamoudi7" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
