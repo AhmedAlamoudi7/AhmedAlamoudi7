@@ -16,14 +16,7 @@ Here are some ideas to get you started:
 -->
 -->
 
-<iframe src="https://giphy.com/embed/RrdoERPeXn2qqwV5jN" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
-</iframe>
-<p>
-  <a href="https://giphy.com/gifs/RrdoERPeXn2qqwV5jN">via GIPHY</a>
-</p>
-
-<p  align="center" ><a target="_blank" rel="noopener noreferrer" href="https://giphy.com/gifs/RrdoERPeXn2qqwV5jN"><img src="https://giphy.com/embed/RrdoERPeXn2qqwV5jN" alt="Header" title="Header" style="max-width:150%;"></a></p>
-
+<a href="https://files.fm/f/m2rshvahs"><img src="https://files.fm/thumb_show.php?i=m2rshvahs"></a>
 
 <p align="center"> 
   Visitor count<br>
