@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
 
 <!--
-**mohammed-abushaban/mohammed-abushaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AhmedAlamoudi7/AhmedAlamoudi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<p  align="center" ><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/63412382/126063427-00cb2639-cd03-447c-8d28-cec53c97fc89.gif"><img src="https://user-images.githubusercontent.com/63412382/126063427-00cb2639-cd03-447c-8d28-cec53c97fc89.gif" alt="Header" title="Header" style="max-width:150%;"></a></p>
+<p  align="center" ><a target="_blank" rel="noopener noreferrer" href="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media"><img src="https://user-images.githubusercontent.com/63412382/126063427-00cb2639-cd03-447c-8d28-cec53c97fc89.gif" alt="Header" title="Header" style="max-width:150%;"></a></p>
 
 <p align="center"> 
   Visitor count<br>
