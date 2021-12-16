@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <a href="https://giphy.com/gifs/RrdoERPeXn2qqwV5jN">via GIPHY</a>
 </p>
 
+<p  align="center" ><a target="_blank" rel="noopener noreferrer" href="https://giphy.com/gifs/RrdoERPeXn2qqwV5jN"><img src="https://giphy.com/embed/RrdoERPeXn2qqwV5jN" alt="Header" title="Header" style="max-width:150%;"></a></p>
+
 
 <p align="center"> 
   Visitor count<br>
