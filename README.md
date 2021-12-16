@@ -62,17 +62,8 @@ I believe communication and transparency is the key to achieve any goal and I te
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=mohammed-abushaban)
 
-### Programing Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
-![NET]( https://img.shields.io/badge/-.NET-000?&logo=.NET)
-![Csharp](  https://img.shields.io/badge/-csharp-000?&logo=csharp)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=4479A1)
-![python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
-![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=microsoftsqlserver)
-![microsoftsqlserver](https://img.shields.io/badge/-awsamplify-000?&logo=awsamplify)
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
