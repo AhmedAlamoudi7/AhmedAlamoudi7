@@ -54,12 +54,11 @@ I believe communication and transparency is the key to achieve any goal and I te
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/ahmed-alamoudi-4327421b9/" title="LinkedIn Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg"> LinkedIn</a></code>
-  <!-- <code><a href="https://leetcode.com/orashid303/" title="LeetCode Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/leetcode.svg"> LeetCode</a></code>
-  <code><a href="https://twitter.com/OsamaRR_" title="Twitter Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.hackerrank.com/orashid303?hr_r=1" title="Hacker Rank" target="blank"><img width="22" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png"> Hacker Rank</a></code> -->
+  <code><a href="https://twitter.com/AhmedRa95387892" title="Twitter Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/twitter.svg"> Twitter</a></code>
+
 </h5>
 </br>
- <img align="center">
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=AhmedAlamoudi7)
 
 
