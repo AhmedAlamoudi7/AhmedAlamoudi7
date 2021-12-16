@@ -60,7 +60,7 @@ I believe communication and transparency is the key to achieve any goal and I te
 </h5>
 </br>
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=mohammed-abushaban)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=AhmedAlamoudi7)
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
