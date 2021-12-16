@@ -59,10 +59,10 @@ I believe communication and transparency is the key to achieve any goal and I te
   <code><a href="https://www.hackerrank.com/orashid303?hr_r=1" title="Hacker Rank" target="blank"><img width="22" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png"> Hacker Rank</a></code> -->
 </h5>
 </br>
- <p align="center">
-
+ <img align="center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=AhmedAlamoudi7)
-</p>
+
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
