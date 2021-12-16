@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 -->
 
-<a href="https://files.fm/f/m2rshvahs" style="margin-righ:300px"><img src="https://files.fm/thumb_show.php?i=m2rshvahs"></a>
+<a href="https://files.fm/f/m2rshvahs" style="margin-left:300px"><img src="https://files.fm/thumb_show.php?i=m2rshvahs"></a>
 
 <p align="center"> 
   Visitor count<br>
