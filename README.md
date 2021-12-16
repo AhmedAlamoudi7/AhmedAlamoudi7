@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 -->
 
-<iframe src="https://giphy.com/embed/RrdoERPeXn2qqwV5jN" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RrdoERPeXn2qqwV5jN">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/RrdoERPeXn2qqwV5jN" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+</iframe>
+<p>
+  <a href="https://giphy.com/gifs/RrdoERPeXn2qqwV5jN">via GIPHY</a>
+</p>
 
 
 <p align="center"> 
