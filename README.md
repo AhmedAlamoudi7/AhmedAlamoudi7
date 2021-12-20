@@ -39,7 +39,7 @@ I have a solid CS knowledge foundation which permits me to build the best soluti
 
 Skills set:
 
-Database Design * MSSQL *Angular.js* ASP.NET MVC 5 * ASP.NET CORE * EntityFramework * Dapper * Identity * IdentityServer * SignalR *git/github*.JavaScript,python .django*linux system manager.
+Database Design * MSSQL * Angular.js * ASP.NET MVC 5 * ASP.NET CORE * EntityFramework * Dapper * Identity * IdentityServer * SignalR * git/github * JavaScript * python  * django * linux system manager * Pentesting 
 
 My personal commitment to quality and on-schedule delivery makes me stand apart from others. If you are on the lookout for a hard-working and dedicated person, do connect with me.
 
