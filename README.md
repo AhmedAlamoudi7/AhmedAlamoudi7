@@ -95,7 +95,7 @@ I believe communication and transparency is the key to achieve any goal and I te
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
   <code><img title="mongodb" height="25" src="images/download (1).png"></code>
-  <code><img title="typescript" height="25" src="images/typescript.png"></code>
+  <code><img title="typescript" height="30" src="images/typescript.png"></code>
 
   
 </p>
