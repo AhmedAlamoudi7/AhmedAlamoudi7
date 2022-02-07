@@ -53,7 +53,7 @@ I believe communication and transparency is the key to achieve any goal and I te
  </br>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/ahmed-alamoudi-4327421b9/" title="LinkedIn Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/ahmed-raid-alamoudi-4327421b9/" title="LinkedIn Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/AhmedRa95387892" title="Twitter Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/twitter.svg"> Twitter</a></code>
 
 </h5>
