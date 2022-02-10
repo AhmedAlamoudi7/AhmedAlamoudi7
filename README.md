@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <p align="center">
 <a href="https://github.com/AhmedAlamoudi7/AhmedAlamoudi7/blob/main/2641092.gif"><img src="https://github.com/AhmedAlamoudi7/AhmedAlamoudi7/blob/main/2641092.gif" style="object-fit: cover" width="100%" height="500"></a>
 </p>
