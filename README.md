@@ -142,8 +142,8 @@ I believe communication and transparency is the key to achieve any goal and I te
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AhmedAlamoudi7/Orders.API" title="Order API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAlamoudi7&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AhmedAlamoudi7/Elghad.Software" title="Elghad Software"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAlamoudi7&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AhmedAlamoudi7/SecureMicroservices" title="Secure Micro Services"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAlamoudi7&repo=SecureMicroservices&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/AhmedAlamoudi7/run-aspnetcore-microservices" title="Asp Net Core Micro Services"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedAlamoudi7&repo=Software-System-HR-Asp.net&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
