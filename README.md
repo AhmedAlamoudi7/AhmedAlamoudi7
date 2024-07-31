@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 ### Overview.
 <p>I am a full-stack/back-end engineer with a passion for designing and building systems.
-I hold over 3 years of experience in building solid Back End services using the .NET stack.
+I hold over 5 years of experience in building solid Back End services using the .NET stack.
 
-I've been using the .NET stack for 1 years, I've used most of the technologies related to
+I've been using the .NET stack for 5 years, I've used most of the technologies related to
 this stack. I participated in designing and building new entire systems. In most of my jobs,
 I was responsible for solving complex problems and adding new features to the legacy systems.
 
